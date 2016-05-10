@@ -27,8 +27,7 @@
     "value-pipe": "^1.0.0"
   },
   "files": [
-    "index.js",
-    "hooks.js"
+    "*.js"
   ],
   "dependencies": {
     "ap": "~0.2.0",
